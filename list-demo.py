@@ -32,12 +32,12 @@ result = cars[::-1]
 
 
 #yeni liste
-    #StudentA : Yaren Bilgi 2012, (70,60,70)
-studentA = ["yaren", "bilgi", 2010, [70,60,70]]
-    #studentB : İsa Turan 1999, (80,80,70)
-studentB = ["isa","turan",1999,[80,80,70]]
-    #studentC : Kerem Yılmaz 1998, (80,70,90)
-studentC = ["kerem","yılmaz",1998,[80,70,90]]
+    #StudentA : Y Bilgi 2012, (70,60,70)
+studentA = ["y", "bilgi", 2010, [70,60,70]]
+    #studentB : İ Turan 1999, (80,80,70)
+studentB = ["i","turan",1999,[80,80,70]]
+    #studentC : K Yılmaz 1998, (80,70,90)
+studentC = ["k","yılmaz",1998,[80,70,90]]
 
 
 result = studentA[0]
