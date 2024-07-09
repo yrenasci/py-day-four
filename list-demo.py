@@ -43,6 +43,6 @@ studentC = ["k","yılmaz",1998,[80,70,90]]
 result = studentA[0]
 result = studentB[1]
 result = studentC[2]
-result = f"{studentA[0]} {studentA[1]} {2019-studentA[2]}yaren bilgi 9 yaşında ve not ortalaması 66 {(studentA[3][0] + studentA[3][1] + studentA[3][2])/3}"
+result = f"{studentA[0]} {studentA[1]} {2019-studentA[2]}y bilgi 9 yaşında ve not ortalaması 66 {(studentA[3][0] + studentA[3][1] + studentA[3][2])/3}"
 
 print(result)
